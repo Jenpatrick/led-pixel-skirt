@@ -1,6 +1,9 @@
 # led-pixel-skirt
 A redo of the Neopixel LED skirt from: https://hackaday.io/project/177255-neopixel-led-skirt
 
+I'm gonna do this in C/C++ in ArduinoIDE and PlatformIO Ide....
+
+
 Picture of circuit, that will change!  (yea, gonna go for a mpu6050 actually since I have one laying around..)
 [The circuit from Fritzing](8266-led-skirt.png)
 
@@ -29,6 +32,11 @@ https://github.com/electroniccats/mpu6050
 mpu6050 Light (not as huge, not illuminated!) library
 
 https://github.com/rfetick/MPU6050_light
+
+
+Roll pitch sense:
+
+https://wiki.dfrobot.com/How_to_Use_a_Three-Axis_Accelerometer_for_Tilt_Sensing
 
 
 FastLED our old faithful:
